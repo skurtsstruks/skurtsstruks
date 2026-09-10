@@ -1,6 +1,13 @@
-<h1 align="center">◢ jakob stephens ◣</h1>
 <p align="center">
-  <code>network engineering</code> // <code>cloud infrastructure</code> // <code>systems operations</code>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1500&color=58A6FF&center=true&vCenter=true&width=850&lines=jakob+stephens" />
+</p>
+
+<p align="center">
+  <code>network engineering</code> // <code>cloud infrastructure</code> // <code>linux systems</code>
+</p>
+
+<p align="center">
+  infrastructure • observability • reliability
 </p>
 
 ---

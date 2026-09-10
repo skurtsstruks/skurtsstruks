@@ -1,0 +1,76 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="jakob stephens">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+
+  <style>
+    .name {
+      font: 700 60px 'Fira Code', monospace;
+      dominant-baseline: middle;
+      text-anchor: middle;
+    }
+    .sub {
+      font: 400 24px 'Fira Code', monospace;
+      text-anchor: middle;
+    }
+    .ghost-green { opacity: 0.16; }
+    .ghost-gray  { opacity: 0.10; }
+  </style>
+
+  <!-- ghosting / lag effect -->
+  <g transform="translate(606,86)" class="ghost-green">
+    <text class="name" x="0" y="0" fill="#3fb950">jakob stephens</text>
+  </g>
+
+  <g transform="translate(596,76)" class="ghost-gray">
+    <text class="name" x="0" y="0" fill="#9da7b3">jakob stephens</text>
+  </g>
+
+  <!-- centered colored letters -->
+  <g transform="translate(600,80)">
+    <text class="name" x="-245" y="0" fill="#3fb950">j</text>
+    <text class="name" x="-205" y="0" fill="#9da7b3">a</text>
+    <text class="name" x="-165" y="0" fill="#4b5563">k</text>
+    <text class="name" x="-125" y="0" fill="#3fb950">o</text>
+    <text class="name" x="-85"  y="0" fill="#9da7b3">b</text>
+
+    <text class="name" x="-5"   y="0" fill="#4b5563">s</text>
+    <text class="name" x="35"   y="0" fill="#3fb950">t</text>
+    <text class="name" x="75"   y="0" fill="#9da7b3">e</text>
+    <text class="name" x="115"  y="0" fill="#4b5563">p</text>
+    <text class="name" x="155"  y="0" fill="#3fb950">h</text>
+    <text class="name" x="195"  y="0" fill="#9da7b3">e</text>
+    <text class="name" x="235"  y="0" fill="#4b5563">n</text>
+    <text class="name" x="275"  y="0" fill="#3fb950">s</text>
+  </g>
+
+  <!-- animated subtitle line 1 -->
+  <g transform="translate(600,165)">
+    <text class="sub" x="0" y="0" fill="#9da7b3" opacity="1">
+      network engineering
+      <animate attributeName="opacity" values="1;1;0;0;0;0" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text class="sub" x="0" y="0" fill="#9da7b3" opacity="0">
+      cloud infrastructure
+      <animate attributeName="opacity" values="0;0;1;1;0;0" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text class="sub" x="0" y="0" fill="#9da7b3" opacity="0">
+      linux systems
+      <animate attributeName="opacity" values="0;0;0;0;1;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- animated subtitle line 2 -->
+  <g transform="translate(600,205)">
+    <text class="sub" x="0" y="0" fill="#3fb950" opacity="1">
+      observability // reliability // operations
+      <animate attributeName="opacity" values="1;1;0;0;0;0" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text class="sub" x="0" y="0" fill="#9da7b3" opacity="0">
+      infrastructure // monitoring // defense systems
+      <animate attributeName="opacity" values="0;0;1;1;0;0" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text class="sub" x="0" y="0" fill="#4b5563" opacity="0">
+      transition in progress
+      <animate attributeName="opacity" values="0;0;0;0;1;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>

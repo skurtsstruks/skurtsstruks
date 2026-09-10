@@ -1,36 +1,6 @@
-<svg width="1000" height="220" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="jakob stephens header">
-  <rect width="100%" height="100%" fill="#0d1117"/>
-
-  <style>
-    .name {
-      font: 700 54px 'Fira Code', monospace;
-    }
-    .sub {
-      font: 400 22px 'Fira Code', monospace;
-      fill: #c9d1d9;
-    }
-  </style>
-
-  <g transform="translate(110,95)">
-    <text class="name" x="0" y="0" fill="#58a6ff">j</text>
-    <text class="name" x="38" y="0" fill="#79c0ff">a</text>
-    <text class="name" x="76" y="0" fill="#a5d6ff">k</text>
-    <text class="name" x="114" y="0" fill="#7ee787">o</text>
-    <text class="name" x="152" y="0" fill="#56d364">b</text>
-
-    <text class="name" x="228" y="0" fill="#d2a8ff">s</text>
-    <text class="name" x="266" y="0" fill="#ffa657">t</text>
-    <text class="name" x="304" y="0" fill="#ff7b72">e</text>
-    <text class="name" x="342" y="0" fill="#f2cc60">p</text>
-    <text class="name" x="380" y="0" fill="#79c0ff">h</text>
-    <text class="name" x="418" y="0" fill="#58a6ff">e</text>
-    <text class="name" x="456" y="0" fill="#7ee787">n</text>
-    <text class="name" x="494" y="0" fill="#d2a8ff">s</text>
-  </g>
-
-  <text class="sub" x="500" y="150" text-anchor="middle">network engineering // cloud infrastructure // linux systems</text>
-  <text class="sub" x="500" y="185" text-anchor="middle">infrastructure • observability • reliability</text>
-</svg>
+<p align="center">
+  <img src="./header.svg" alt="jakob stephens header" width="100%" />
+</p>
 
 <p align="center">
   <code>engineering technician v</code> // <code>defense contractor</code> // <code>infrastructure-focused transition</code>

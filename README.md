@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=fira+code&size=28&pause=1200&color=58a6ff&center=true&vcenter=true&width=900&lines=jakob+stephens;network+engineering;cloud+infrastructure;linux+%7c+observability+%7c+systems+operations" />
-</p>
+<h1 align="center">
+  <span style="color:#58a6ff;">j</span><span style="color:#79c0ff;">a</span><span style="color:#a5d6ff;">k</span><span style="color:#7ee787;">o</span><span style="color:#56d364;">b</span>
+  <span style="color:#d2a8ff;">s</span><span style="color:#ffa657;">t</span><span style="color:#ff7b72;">e</span><span style="color:#f2cc60;">p</span><span style="color:#79c0ff;">h</span><span style="color:#58a6ff;">e</span><span style="color:#7ee787;">n</span><span style="color:#d2a8ff;">s</span>
+</h1>
 
 <p align="center">
   <code>engineering technician v</code> // <code>defense contractor</code> // <code>infrastructure-focused transition</code>

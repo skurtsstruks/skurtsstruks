@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.svg" alt="jakob stephens animated header" width="100%" />
+  <img src="./header.svg" alt="jakob stephens" width="100%" />
 </p>
 
 <p align="center">
